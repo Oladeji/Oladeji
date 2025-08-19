@@ -71,4 +71,39 @@ A subscription-based **Task & Project Management platform** with AI-driven produ
 
 ## 🌟 Professional Highlights  
 
-- Developed and deployed **enterprise-grade SaaS applications** using modern full-s
+-Modular microservices deployed as Docker containers , fronted by an API Gateway that centralizes routing, JWT authentication, CORS, and unified access to multiple React front-ends.
+End-to-end observability with Serilog structured logging, OpenTelemetry traces/metrics (OTLP), real-time SignalR updates, resilient long-running workflows with cooperative cancellation, comprehensive health checks with UI,  persistence, and secure configuration via environment variables or container secrets—ensuring robust, production-grade service monitoring and reliability.
+- Integrated **third-party APIs** and optimized workflows for scalable solutions  
+- Designed **analytics dashboards** to enhance business intelligence and reporting  
+- Hands-on experience in **cloud infrastructure, containerization, and DevOps pipelines**  
+- Strong expertise across **software development lifecycle**: architecture, coding, deployment, monitoring  
+
+---
+
+## 🎓 Education & Certifications  
+
+- **Master in Data Science** – University of West England, Bristol, UK  
+- **AWS Certified Cloud Practitioner** – 2023  
+- **Microsoft Certified: Azure Fundamentals** – 2021  
+- **Linux Foundation Certified Associate (LFCA)** – 2022  
+- **Akamai Web Performance Foundations** – 2023  
+
+---
+
+## 📈 GitHub Stats  
+
+![Oladeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oladeji&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oladeji&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect With Me  
+
+💼 [LinkedIn](https://www.linkedin.com/in/oladeji-akomolafe-1502a84b/)  
+🌐 [Website](https://www.bigGconsulting.ca)  
+🧑‍💻 [GitHub](https://github.com/Oladeji)  
+✉️ [Email](mailto:akomspatrickws@yahoo.com)  
+
+---
+
+✨ *Passionate about building innovative software, learning new technologies, and delivering impactful solutions.*
