@@ -71,7 +71,7 @@ A subscription-based **Task & Project Management platform** with AI-driven produ
 
 ## 🌟 Professional Highlights  
 
--Modular microservices deployed as Docker containers , fronted by an API Gateway that centralizes routing, JWT authentication, CORS, and unified access to multiple React front-ends.
+-  Modular microservices deployed as Docker containers , fronted by an API Gateway that centralizes routing, JWT authentication, CORS, and unified  access to multiple React front-ends.
 End-to-end observability with Serilog structured logging, OpenTelemetry traces/metrics (OTLP), real-time SignalR updates, resilient long-running workflows with cooperative cancellation, comprehensive health checks with UI,  persistence, and secure configuration via environment variables or container secrets—ensuring robust, production-grade service monitoring and reliability.
 - Integrated **third-party APIs** and optimized workflows for scalable solutions  
 - Designed **analytics dashboards** to enhance business intelligence and reporting  
