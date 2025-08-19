@@ -43,6 +43,18 @@ Kafka | Optimizely | Tealium | Linux | AI/ML | Deep Learning | Statistical Analy
 
 ---
 
+## 🧠 Soft Skills  
+
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge) 
+![Collaboration](https://img.shields.io/badge/Collaboration-2196F3?style=for-the-badge) 
+![Adaptability](https://img.shields.io/badge/Adaptability-FF9800?style=for-the-badge) 
+![Communication](https://img.shields.io/badge/Communication-9C27B0?style=for-the-badge) 
+![Organization](https://img.shields.io/badge/Organization-607D8B?style=for-the-badge) 
+![Creativity](https://img.shields.io/badge/Creativity-E91E63?style=for-the-badge) 
+![Attention to Detail](https://img.shields.io/badge/Attention%20to%20Detail-795548?style=for-the-badge) 
+
+---
+
 ## 🚀 Current Projects & Ideas  
 
 ### 🔹 [SaaS Mini-CRM](https://github.com/Oladeji/saas-mini-crm)  
@@ -57,38 +69,4 @@ A subscription-based **Task & Project Management platform** with AI-driven produ
 
 ## 🌟 Professional Highlights  
 
-- Developed and deployed **enterprise-grade SaaS applications** using modern full-stack technologies  
-- Integrated **third-party APIs** and optimized workflows for scalable solutions  
-- Designed **analytics dashboards** to enhance business intelligence and reporting  
-- Hands-on experience in **cloud infrastructure, containerization, and DevOps pipelines**  
-- Strong expertise across **software development lifecycle**: architecture, coding, deployment, monitoring  
-
----
-
-## 🎓 Education & Certifications  
-
-- **Master in Data Science** – University of West England, Bristol, UK  
-- **AWS Certified Cloud Practitioner** – 2023  
-- **Microsoft Certified: Azure Fundamentals** – 2021  
-- **Linux Foundation Certified Associate (LFCA)** – 2022  
-- **Akamai Web Performance Foundations** – 2023  
-
----
-
-## 📈 GitHub Stats  
-
-![Oladeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oladeji&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oladeji&layout=compact&theme=radical)  
-
----
-
-## 🌐 Connect With Me  
-
-💼 [LinkedIn](https://www.linkedin.com/in/oladeji-akomolafe-1502a84b/)  
-🌐 [Website](https://www.bigGconsulting.ca)  
-🧑‍💻 [GitHub](https://github.com/Oladeji)  
-✉️ [Email](mailto:akomspatrickws@yahoo.com)  
-
----
-
-✨ *Passionate about building innovative software, learning new technologies, and delivering impactful solutions.*
+- Developed and deployed **enterprise-grade SaaS applications** using modern full-s
