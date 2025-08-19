@@ -52,6 +52,8 @@ Kafka | Optimizely | Tealium | Linux | AI/ML | Deep Learning | Statistical Analy
 ![Organization](https://img.shields.io/badge/Organization-607D8B?style=for-the-badge) 
 ![Creativity](https://img.shields.io/badge/Creativity-E91E63?style=for-the-badge) 
 ![Attention to Detail](https://img.shields.io/badge/Attention%20to%20Detail-795548?style=for-the-badge) 
+![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-FF5722?style=for-the-badge)
+
 
 ---
 
